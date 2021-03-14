@@ -103,3 +103,37 @@ h2{
     z-index: 16;
     border-radius: 50%;
 }
+.btn{
+    width: 125px;
+    height: 44px;
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000;
+    bottom: 30px;
+    margin-bottom: 35px;
+    font-family: fantasy;
+    margin-left: 82vw;
+    border-radius: 20px;
+    box-shadow: 1px 2px red;
+    background-color: greenyellow;
+}
+.btn2{
+    width: 125px;
+    height: 44px;
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000;
+    bottom: 30px;
+    margin-bottom: 35px;
+    font-family: fantasy;
+    margin-left: 98px;
+    border-radius: 20px;
+    box-shadow: 1px 2px red;
+    background-color: greenyellow;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
